@@ -1,6 +1,7 @@
 #
 *.o
 #
+bin/
 build/
 cmake-build-debug/
 #
